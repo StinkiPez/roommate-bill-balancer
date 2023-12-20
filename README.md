@@ -1,5 +1,5 @@
 
-![image of money](https://cdn.pixabay.com/photo/2017/03/27/21/31/money-2180330_1280.jpg)
+![image of money](https://thumbs.dreamstime.com/b/hands-giving-money-isolated-white-background-hand-to-another-bribes-corruption-162488701.jpg)
 # Roommate Bill Balancer
 A short program to help calculate the monthly difference of bills between a group of roommates.
 
